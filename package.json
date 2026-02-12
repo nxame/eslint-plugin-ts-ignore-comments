@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/absqueued/eslint-plugin-ts-ignore-comments#readme",
   "devDependencies": {
-    "eslint": "9.x",
+    "eslint": "10.x",
     "np": "^11.0.2"
   },
   "peerDependencies": {
